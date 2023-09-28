@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8Axkx1YAKEqOdr5R29RlSZoI4uGn/YuKkitf5rgTMv82sO+4aMVXN+VAmJ+xpN4XapcmKit/WgZroHsTaAkbLQ==",
+  "success": true,
+  "projectFilePath": "/home/hp/Downloads/Bogus/BogusData/BogusData.csproj",
+  "expectedPackageFiles": [
+    "/home/hp/.nuget/packages/bogus/34.0.2/bogus.34.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
